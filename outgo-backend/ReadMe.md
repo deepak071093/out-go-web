@@ -1,0 +1,1 @@
+Pyhton lambda function for expense calculations
